@@ -10,7 +10,8 @@
 
 # production
 /build
-
+#hints 
+js.script.js
 # misc
 .DS_Store
 .env.local
